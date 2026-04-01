@@ -1,0 +1,435 @@
+[21:46:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[21:46:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[21:46:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:46:34] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/instantrestock_2.6.1.jar'...
+[21:46:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/instantrestock_2.6.1.jar' in 1668ms.
+[21:46:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[21:46:37] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Veinminer (2.5.3)
+[21:46:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - AutoTreeChop (1.7.3), InstantRestock (2.6.1), SkinsRestorer (15.11.0)
+[21:46:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:46:46] [ServerMain/INFO]: Loaded 1470 recipes
+[21:46:46] [ServerMain/INFO]: Loaded 1584 advancements
+[21:46:46] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:46:46] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 500.1ms
+[21:46:46] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[21:46:46] [Server thread/INFO]: Loading properties
+[21:46:46] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[21:46:47] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:46:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:46:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:46:47] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:46:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:46:47] [Server thread/INFO]: Generating keypair
+[21:46:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:46:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:46:47] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:46:48] [Server thread/INFO]: [AutoTreeChop] Loading server plugin AutoTreeChop v1.7.3
+[21:46:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.11.0
+[21:46:48] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.3
+[21:46:48] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[21:46:48] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.6.1
+[21:46:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:46:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.11.0
+[21:46:50] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[21:46:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:46:50] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.3
+[21:46:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:46:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:46:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:46:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:46:50] [Server thread/INFO]: Preparing level "world"
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.11.0
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 52f31ab
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.11.1) is available! Downloading update...
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:46:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[21:46:50] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated (1.21.11). Installed: 2.5.3 -> Latest: 2.6.0
+[21:46:50] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[21:46:50] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[21:46:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 544ms
+[21:46:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[21:46:51] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[21:46:51] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[21:46:51] [Server thread/INFO]: Preparing spawn area: 100%
+[21:46:51] [Server thread/INFO]: Prepared spawn area in 2 ms
+[21:46:51] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[21:46:51] [Server thread/INFO]: Prepared spawn area in 0 ms
+[21:46:51] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[21:46:51] [Server thread/INFO]: Prepared spawn area in 1 ms
+[21:46:51] [Server thread/INFO]: Done preparing level "world" (0.795s)
+[21:46:51] [Server thread/INFO]: [AutoTreeChop] Enabling AutoTreeChop v1.7.3
+[21:46:51] [Server thread/INFO]: [AutoTreeChop] Loaded 11 log types
+[21:46:51] [Server thread/INFO]: [AutoTreeChop] Loaded 11 leaf types
+[21:46:51] [Server thread/INFO]: [AutoTreeChop] Loaded 9 log-sapling mappings
+[21:46:52] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:46:52] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@1e7f15f3
+[21:46:52] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:46:52] [Server thread/INFO]: [AutoTreeChop] AutoTreeChop enabled!
+[21:46:52] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.6.1
+[21:46:53] [Server thread/INFO]: [InstantRestock] Enabled InstantRestock!
+[21:46:53] [Server thread/INFO]: [spark] Starting background profiler...
+[21:46:53] [Server thread/INFO]: Running delayed init tasks
+[21:46:53] [Server thread/INFO]: Done (22.688s)! For help, type "help"
+[21:46:53] [Server thread/INFO]: [AutoTreeChop] You are using the latest version of AutoTreeChop.
+[21:46:54] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 28 build(s) behind ***
+[21:46:54] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[21:47:00] [User Authenticator #0/INFO]: UUID of player zHythz is 5b65ed76-2be0-3fb2-be25-7cbec89405b3
+[21:47:02] [Server thread/INFO]: zHythz joined the game
+[21:47:02] [Server thread/INFO]: zHythz[/127.130.111.111:32801] logged in with entity id 64 at ([world]-115.69999998807907, 67.0, -123.57970458150355)
+[21:47:20] [Server thread/INFO]: [zHythz: Set own game mode to Spectator Mode]
+[21:47:35] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[21:47:57] [Server thread/INFO]: zHythz lost connection: Disconnected
+[21:47:57] [Server thread/INFO]: zHythz left the game
+[21:48:43] [User Authenticator #1/INFO]: UUID of player elreydeb is f7738609-bbce-3e55-8609-bec928244ca5
+[21:48:46] [Server thread/INFO]: elreydeb joined the game
+[21:48:46] [Server thread/INFO]: elreydeb[/127.168.240.179:33279] logged in with entity id 374 at ([world]-31.12081471931241, 74.0, -319.46788845630243)
+[21:54:00] [Server thread/INFO]: elreydeb has made the advancement [Sweet Dreams]
+[22:09:44] [Server thread/INFO]: elreydeb has made the advancement [Suit Up]
+[22:12:35] [User Authenticator #2/INFO]: UUID of player zHythz is 5b65ed76-2be0-3fb2-be25-7cbec89405b3
+[22:12:36] [Server thread/INFO]: zHythz joined the game
+[22:12:36] [Server thread/INFO]: zHythz[/127.130.111.111:42099] logged in with entity id 7777 at ([world]-116.30382711292825, 67.0, -88.43092312691556)
+[22:13:16] [Async Chat Thread - #0/INFO]: [Not Secure] <elreydeb> hola seba
+[22:13:18] [Async Chat Thread - #0/INFO]: [Not Secure] <zHythz> no
+[22:13:28] [Async Chat Thread - #0/INFO]: [Not Secure] <zHythz> calla perro triple jueputa
+[22:13:30] [Async Chat Thread - #0/INFO]: [Not Secure] <elreydeb> donde estas sano
+[22:14:16] [Server thread/INFO]: zHythz lost connection: Disconnected
+[22:14:16] [Server thread/INFO]: zHythz left the game
+[22:16:30] [User Authenticator #3/INFO]: UUID of player zHythz is 5b65ed76-2be0-3fb2-be25-7cbec89405b3
+[22:16:31] [Server thread/INFO]: zHythz joined the game
+[22:16:31] [Server thread/INFO]: zHythz[/127.130.111.111:32775] logged in with entity id 9595 at ([world]-116.30382711292825, 67.0, -88.43092312691556)
+[22:16:51] [Server thread/INFO]: [zHythz: Set own game mode to Spectator Mode]
+[22:16:59] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> yaya
+[22:17:02] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> work all day
+[22:17:12] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> temaso
+[22:17:20] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> oe ando a 3000 fps
+[22:17:21] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> con shader
+[22:17:22] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> XDDD
+[22:17:28] [Async Chat Thread - #3/INFO]: [Not Secure] <elreydeb> uf
+[22:17:31] [Async Chat Thread - #3/INFO]: [Not Secure] <elreydeb> yo voy a 300
+[22:17:42] [Server thread/INFO]: zHythz issued server command: /tp elreydeb
+[22:17:42] [Server thread/INFO]: [zHythz: Teleported zHythz to elreydeb]
+[22:17:44] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:17:46] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> bu
+[22:18:10] [Async Chat Thread - #3/INFO]: [Not Secure] <elreydeb> xd
+[22:18:16] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> que lindo
+[22:18:17] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> es
+[22:18:19] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> mc we
+[22:19:07] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> a,dea
+[22:19:19] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> vamonos mar
+[22:19:26] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> aldea e
+[22:19:36] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> XDDDDDDDDDDDD
+[22:19:39] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[22:19:45] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:19:52] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> HP
+[22:19:55] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> GOLEM HP
+[22:20:16] [Server thread/INFO]: zHythz has made the advancement [Acquire Hardware]
+[22:20:19] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> ven vamono
+[22:20:45] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> no
+[22:20:46] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> subete
+[22:20:47] [Async Chat Thread - #3/INFO]: [Not Secure] <zHythz> xd
+[22:20:49] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> we
+[22:20:49] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> te vas a confundir
+[22:20:51] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> carrera
+[22:21:15] [Server thread/INFO]: Villager Villager['Nitwit'/11916, uuid='44f43022-d0ec-47b2-bfba-facebff56390', l='ServerLevel[world]', x=-1864.72, y=88.00, z=31.37, cpos=[-117, 1], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
+[22:21:15] [Server thread/INFO]: Villager Villager['Villager'/11967, uuid='95d41fb1-a6bd-420d-a4ae-f9f2223d6cc6', l='ServerLevel[world]', x=-1859.28, y=88.00, z=38.63, cpos=[-117, 2], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[22:21:18] [Server thread/INFO]: Villager Villager['Villager'/11908, uuid='ba1f7d45-c1b5-48dc-b1f3-03a86a6f2d4a', l='ServerLevel[world]', x=-1915.37, y=85.56, z=19.28, cpos=[-120, 1], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[22:21:38] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> antes heramos maduro y trump
+[22:21:51] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> ahora somos sebas y un negro de la india
+[22:21:55] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> XDDDDDDDDDD
+[22:22:08] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> aca
+[22:22:32] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> este bioma es una mrd
+[22:22:35] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> si
+[22:22:40] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> donde quieres vivir
+[22:22:47] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> en brasil
+[22:22:56] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> vamos al amazonas
+[22:23:04] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> xdddddd
+[22:23:09] [Async Chat Thread - #2/INFO]: [Not Secure] <zHythz> sihgueme
+[22:23:23] [Async Chat Thread - #2/INFO]: [Not Secure] <elreydeb> nos estamos devlviendo loco
+[22:24:27] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> aqui ya estube
+[22:24:30] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> sigueme oe
+[22:25:06] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> XD?
+[22:25:10] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> bug
+[22:25:44] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> deb te gustan las bannas?
+[22:25:45] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> bananas
+[22:25:53] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> depenede de cual hablas xd
+[22:25:59] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> las dos
+[22:26:05] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> mmmm
+[22:26:11] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> la dulce noma
+[22:26:22] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> banana madura o normal
+[22:26:23] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> tetas o culo?
+[22:26:30] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> CULOOOOOOOOOOOOOOOOOOOOOOOOOO
+[22:26:31] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> normal
+[22:26:37] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> a mi me encantan las tetas pequeñas
+[22:26:42] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> huy
+[22:26:47] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> xddddddddddddd
+[22:26:48] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> bueno
+[22:26:50] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> mas o menos
+[22:26:56] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> has visto a sabrina carpenter?
+[22:26:58] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> asi me gustan
+[22:27:06] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> uufff
+[22:27:28] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> y que tenga el culo como la de ella fanning
+[22:27:54] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> sebas
+[22:27:57] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> que
+[22:28:06] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> un culo grande pero sin forma o uno pequeño pero con forma
+[22:28:14] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> mm
+[22:28:18] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> pequeño pero con forma
+[22:28:20] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> Dios las que tienes la forma de corazon
+[22:28:34] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> oe
+[22:28:36] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> hoy vi porno
+[22:28:36] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> dime
+[22:28:38] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> y el primer video
+[22:28:40] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> q me aparecip
+[22:28:42] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> fue una tipa
+[22:28:45] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> q se metio una vela
+[22:28:48] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> XDDDDDDDDD
+[22:28:50] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> XDDDDD?
+[22:28:52] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> si we
+[22:28:54] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> te lo paso
+[22:28:59] [Server thread/INFO]: zHythz has made the advancement [Monster Hunter]
+[22:29:04] [Async Chat Thread - #5/INFO]: [Not Secure] <zHythz> ESPERa te lo paso
+[22:29:09] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> vake
+[22:29:13] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> vale*
+[22:29:15] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> mas tarde
+[22:29:23] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> me hago una
+[22:29:36] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> XDDDD
+[22:29:48] [Async Chat Thread - #4/INFO]: [Not Secure] <elreydeb> tu guardas los links?
+[22:30:12] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> me voy a hacer una paja
+[22:30:13] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> ya vuelvo
+[22:30:14] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> Oeeeeeeeeeeeeeeee
+[22:30:17] [Async Chat Thread - #5/INFO]: [Not Secure] <elreydeb> eso QUE XD
+[22:30:23] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> no molestes
+[22:30:23] [Server thread/INFO]: elreydeb lost connection: Disconnected
+[22:30:23] [Server thread/INFO]: elreydeb left the game
+[22:30:25] [Async Chat Thread - #4/INFO]: [Not Secure] <zHythz> es mi rutina
+[22:31:03] [User Authenticator #4/INFO]: UUID of player elreydeb is f7738609-bbce-3e55-8609-bec928244ca5
+[22:31:04] [Server thread/INFO]: elreydeb joined the game
+[22:31:04] [Server thread/INFO]: elreydeb[/127.168.240.179:57803] logged in with entity id 16699 at ([world]-406.8044355860384, 77.0, -578.7029372233701)
+[22:31:31] [Async Chat Thread - #6/INFO]: [Not Secure] <zHythz> este video es una delicia
+[22:31:39] [Async Chat Thread - #7/INFO]: [Not Secure] <elreydeb> es una gorda we
+[22:32:27] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> pero
+[22:32:30] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> yo le veo el culo
+[22:32:34] [Async Chat Thread - #7/INFO]: [Not Secure] <elreydeb> nah bro
+[22:32:37] [Async Chat Thread - #7/INFO]: [Not Secure] <elreydeb> es gorda
+[22:32:40] [Async Chat Thread - #7/INFO]: [Not Secure] <elreydeb> que asco
+[22:33:01] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> XDD
+[22:33:02] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> ando viendo
+[22:33:05] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> comatozze
+[22:33:11] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> la has visto?
+[22:33:14] [Async Chat Thread - #7/INFO]: [Not Secure] <elreydeb> no
+[22:33:29] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> buscala
+[22:33:31] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> te va encantar
+[22:33:36] [Async Chat Thread - #7/INFO]: [Not Secure] <elreydeb> en donde
+[22:34:23] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> ds
+[22:34:24] [Async Chat Thread - #7/INFO]: [Not Secure] <zHythz> checa
+[22:36:57] [Async Chat Thread - #8/INFO]: [Not Secure] <elreydeb> y este mod?
+[22:37:01] [Async Chat Thread - #8/INFO]: [Not Secure] <elreydeb> OE q es estooo
+[22:37:55] [Async Chat Thread - #8/INFO]: [Not Secure] <zHythz> q mod
+[22:38:22] [Server thread/INFO]: zHythz issued server command: /tp elreydeb
+[22:38:22] [Server thread/INFO]: [zHythz: Teleported zHythz to elreydeb]
+[22:38:24] [Async Chat Thread - #8/INFO]: [Not Secure] <zHythz> ya acabe
+[22:38:33] [Async Chat Thread - #8/INFO]: [Not Secure] <elreydeb> espera
+[22:38:38] [Async Chat Thread - #8/INFO]: [Not Secure] <elreydeb> me esrtoy
+[22:38:45] [Async Chat Thread - #8/INFO]: [Not Secure] <zHythz> pajeando
+[22:38:46] [Async Chat Thread - #8/INFO]: [Not Secure] <elreydeb> haciendo una
+[22:38:49] [Async Chat Thread - #8/INFO]: [Not Secure] <zHythz> XDD
+[22:38:50] [Async Chat Thread - #8/INFO]: [Not Secure] <elreydeb> si
+[22:39:02] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[22:39:14] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:40:25] [Server thread/INFO]: zHythz issued server command: /atc confirm
+[22:42:48] [Server thread/INFO]: zHythz lost connection: Disconnected
+[22:42:48] [Server thread/INFO]: zHythz left the game
+[22:44:20] [User Authenticator #5/INFO]: UUID of player zHythz is 5b65ed76-2be0-3fb2-be25-7cbec89405b3
+[22:44:20] [Server thread/INFO]: zHythz (/127.130.111.111:54163) lost connection: Disconnected
+[22:44:22] [User Authenticator #5/INFO]: UUID of player zHythz is 5b65ed76-2be0-3fb2-be25-7cbec89405b3
+[22:44:23] [Server thread/INFO]: zHythz joined the game
+[22:44:23] [Server thread/INFO]: zHythz[/127.130.111.111:56739] logged in with entity id 20547 at ([world]-196.47292776383486, 116.0, -1275.7503873667258)
+[22:44:36] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> mira ven
+[22:44:59] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> este es buen lugar
+[22:45:07] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> see
+[22:45:12] [Server thread/INFO]: zHythz issued server command: /atc confirm
+[22:45:17] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> aqui
+[22:45:22] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> aca deb mira
+[22:45:43] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> aca ?
+[22:45:46] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> se
+[22:45:49] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> te gusta?
+[22:45:51] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> hay q pégar una buena aplanada si xd
+[22:45:53] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> me gustaba mas aca
+[22:46:17] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> si
+[22:46:24] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> por que no tienes
+[22:46:26] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> este plugin xd
+[22:46:27] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> mira
+[22:46:31] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> pone
+[22:47:04] [Server thread/INFO]: zHythz issued server command: /atc enable @a
+[22:47:07] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> listo
+[22:47:08] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> ahora si
+[22:47:34] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[22:47:41] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:47:52] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> y eso?
+[22:48:05] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> q cosa
+[22:48:07] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> AAAAAAAAAAAAAAAA
+[22:48:12] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> AAAAAA
+[22:48:27] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> se alimenta
+[22:48:29] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> de los arboles
+[22:48:42] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> me atac
+[22:48:43] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> WE
+[22:48:46] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> OJO
+[22:48:56] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> SE MUEVE CUANDO NO LO MIRAS WEEEEEEEEEEEE
+[22:48:58] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> esa mierda q xd
+[22:49:21] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> hpppppppppppp
+[22:49:57] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[22:50:11] [Server thread/INFO]: zHythz has made the advancement [Hot Stuff]
+[22:50:12] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:50:16] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> OE
+[22:50:19] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> NO LE HACE NADA
+[22:50:22] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> ESTE NEGRO
+[22:50:29] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[22:50:33] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> es inmortal
+[22:50:37] [Server thread/INFO]: zHythz issued server command: /atc reload
+[22:50:37] [Server thread/INFO]: [AutoTreeChop] Loaded 11 log types
+[22:50:37] [Server thread/INFO]: [AutoTreeChop] Loaded 11 leaf types
+[22:50:37] [Server thread/INFO]: [AutoTreeChop] Loaded 9 log-sapling mappings
+[22:50:37] [Server thread/INFO]: [AutoTreeChop] Translations reloaded
+[22:50:39] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:51:17] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> sebas
+[22:51:21] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> las maderas
+[22:51:24] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> y los
+[22:51:26] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> materialñes
+[22:51:30] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> de construcion
+[22:51:36] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> estan en la primera fila
+[22:51:56] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[22:52:05] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[22:52:13] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> jajja
+[22:52:15] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> ya te mate
+[22:52:17] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> MIRA DEB
+[22:52:18] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> VEN PARA ACA
+[22:52:19] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> PARA Q VEAS
+[22:52:24] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> XD
+[22:52:30] [Server thread/INFO]: zHythz issued server command: /tp elreydeb zHythz
+[22:52:30] [Server thread/INFO]: [zHythz: Teleported elreydeb to zHythz]
+[22:52:34] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> mira como mato
+[22:52:35] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> a esta perra
+[22:52:35] [Async Chat Thread - #11/INFO]: [Not Secure] <elreydeb> COMO
+[22:52:53] [Async Chat Thread - #11/INFO]: [Not Secure] <zHythz> nadie invadira mi terreno
+[22:52:57] [Async Chat Thread - #10/INFO]: [Not Secure] <elreydeb> como los matas
+[22:53:04] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> tienes q romperle el corazon
+[22:53:06] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> del arbol
+[22:53:21] [Async Chat Thread - #10/INFO]: [Not Secure] <zHythz> CHAKALITA BONITAAAAAAAAAAA
+[22:53:39] [Server thread/INFO]: zHythz has made the advancement [Sweet Dreams]
+[22:54:22] [Async Chat Thread - #12/INFO]: [Not Secure] <zHythz> deb siendo violado por 2 hulks
+[22:57:11] [Async Chat Thread - #14/INFO]: [Not Secure] <elreydeb> we
+[22:57:13] [Async Chat Thread - #14/INFO]: [Not Secure] <elreydeb> ese arbol
+[22:57:15] [Async Chat Thread - #14/INFO]: [Not Secure] <elreydeb> no se cae
+[22:57:19] [Async Chat Thread - #14/INFO]: [Not Secure] <zHythz> cual
+[22:57:27] [Async Chat Thread - #14/INFO]: [Not Secure] <elreydeb> cabron
+[22:57:33] [Async Chat Thread - #14/INFO]: [Not Secure] <zHythz> es que soy el adminm xd
+[22:58:15] [Server thread/INFO]: zHythz issued server command: /atc usage
+[22:58:58] [Async Chat Thread - #16/INFO]: [Not Secure] <zHythz> podre
+[22:58:59] [Async Chat Thread - #16/INFO]: [Not Secure] <zHythz> eliminar
+[22:59:01] [Async Chat Thread - #16/INFO]: [Not Secure] <zHythz> este bionma?
+[22:59:04] [Async Chat Thread - #16/INFO]: [Not Secure] <elreydeb> se
+[22:59:53] [Async Chat Thread - #17/INFO]: [Not Secure] <zHythz> tapare
+[22:59:54] [Async Chat Thread - #17/INFO]: [Not Secure] <zHythz> no me gusta
+[22:59:56] [Async Chat Thread - #17/INFO]: [Not Secure] <zHythz> ver esa wea
+[22:59:57] [Async Chat Thread - #17/INFO]: [Not Secure] <zHythz> toda oscura
+[23:00:00] [Async Chat Thread - #17/INFO]: [Not Secure] <elreydeb> XD
+[23:01:15] [Async Chat Thread - #19/INFO]: [Not Secure] <zHythz> emntra
+[23:01:21] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[23:01:28] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[23:03:54] [Async Chat Thread - #20/INFO]: [Not Secure] <zHythz> estariuas
+[23:03:55] [Async Chat Thread - #20/INFO]: [Not Secure] <zHythz> con
+[23:03:56] [Async Chat Thread - #20/INFO]: [Not Secure] <zHythz> de la rose?
+[23:04:13] [Async Chat Thread - #20/INFO]: [Not Secure] <elreydeb> pero x
+[23:04:15] [Async Chat Thread - #20/INFO]: [Not Secure] <elreydeb> xd
+[23:04:21] [Async Chat Thread - #20/INFO]: [Not Secure] <zHythz> si o no
+[23:04:30] [Async Chat Thread - #20/INFO]: [Not Secure] <elreydeb> no
+[23:04:33] [Async Chat Thread - #20/INFO]: [Not Secure] <zHythz> xq we
+[23:04:50] [Async Chat Thread - #20/INFO]: [Not Secure] <zHythz> tiene tremendo drip
+[23:05:53] [Async Chat Thread - #22/INFO]: [Not Secure] <elreydeb> we
+[23:05:55] [Async Chat Thread - #22/INFO]: [Not Secure] <elreydeb> estas
+[23:05:57] [Async Chat Thread - #22/INFO]: [Not Secure] <elreydeb> cosas
+[23:06:01] [Async Chat Thread - #22/INFO]: [Not Secure] <elreydeb> de tierra
+[23:06:03] [Async Chat Thread - #22/INFO]: [Not Secure] <elreydeb> pa q we
+[23:06:08] [Async Chat Thread - #22/INFO]: [Not Secure] <zHythz> pq
+[23:06:10] [Async Chat Thread - #22/INFO]: [Not Secure] <zHythz> vamos a ver
+[23:06:12] [Async Chat Thread - #22/INFO]: [Not Secure] <zHythz> para alla
+[23:06:38] [Async Chat Thread - #22/INFO]: [Not Secure] <zHythz> tengo mari pa alla
+[23:06:48] [Async Chat Thread - #22/INFO]: [Not Secure] <zHythz> 444 ppr siempre
+[23:08:25] [Async Chat Thread - #24/INFO]: [Not Secure] <zHythz> find you dreams and
+[23:08:30] [Async Chat Thread - #24/INFO]: [Not Secure] <zHythz> if know
+[23:08:31] [Async Chat Thread - #24/INFO]: [Not Secure] <zHythz> whare me
+[23:09:52] [Server thread/INFO]: [zHythz: Set own game mode to Creative Mode]
+[23:09:56] [Server thread/INFO]: [zHythz: Set own game mode to Survival Mode]
+[23:10:32] [Async Chat Thread - #27/INFO]: [Not Secure] <elreydeb> quiero
+[23:10:40] [Async Chat Thread - #27/INFO]: [Not Secure] <zHythz> pene
+[23:10:46] [Async Chat Thread - #27/INFO]: [Not Secure] <elreydeb> este we
+[23:10:54] [Async Chat Thread - #27/INFO]: [Not Secure] <elreydeb> quiero irme a donde sara
+[23:11:07] [Async Chat Thread - #27/INFO]: [Not Secure] <zHythz> sara es como mi pene
+[23:11:11] [Async Chat Thread - #27/INFO]: [Not Secure] <zHythz> jamas puedo dejar de tocarla
+[23:12:32] [Async Chat Thread - #29/INFO]: [Not Secure] <elreydeb> xDDDDDDDDDDD
+[23:13:01] [Async Chat Thread - #29/INFO]: [Not Secure] <zHythz> toma
+[23:13:28] [Async Chat Thread - #29/INFO]: [Not Secure] <zHythz> extraño jugar bedwars
+[23:13:35] [Async Chat Thread - #29/INFO]: [Not Secure] <elreydeb> ve a jugar pe
+[23:13:41] [Async Chat Thread - #29/INFO]: [Not Secure] <zHythz> si me voy tengo q apagar
+[23:13:43] [Async Chat Thread - #29/INFO]: [Not Secure] <zHythz> el server
+[23:13:43] [Async Chat Thread - #29/INFO]: [Not Secure] <zHythz> xd
+[23:13:48] [Async Chat Thread - #29/INFO]: [Not Secure] <elreydeb> apaga
+[23:13:50] [Server thread/INFO]: zHythz issued server command: /satgop
+[23:13:52] [Async Chat Thread - #29/INFO]: [Not Secure] <elreydeb> quiero ir a
+[23:13:52] [Server thread/INFO]: zHythz issued server command: /stop
+[23:13:52] [Server thread/INFO]: [zHythz: Stopping the server]
+[23:13:52] [Server thread/INFO]: Stopping server
+[23:13:52] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.6.1
+[23:13:52] [Server thread/INFO]: [InstantRestock] Disabled InstantRestock!
+[23:13:52] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.5.3
+[23:13:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
+[23:13:52] [Server thread/INFO]: [AutoTreeChop] Disabling AutoTreeChop v1.7.3
+[23:13:52] [Server thread/INFO]: [AutoTreeChop] Saving all player data before shutdown...
+[23:13:52] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[23:13:52] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[23:13:52] [Server thread/INFO]: [AutoTreeChop] AutoTreeChop disabled!
+[23:13:52] [Server thread/INFO]: Saving players
+[23:13:52] [Server thread/INFO]: elreydeb lost connection: Server closed
+[23:13:52] [Server thread/INFO]: elreydeb left the game
+[23:13:52] [Server thread/INFO]: zHythz lost connection: Server closed
+[23:13:52] [Server thread/INFO]: zHythz left the game
+[23:13:52] [Server thread/INFO]: Saving worlds
+[23:13:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:13:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:13:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:13:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:13:53] [Server thread/INFO]: [ChunkHolderManager] Saved 1153 block chunks, 242 entity chunks, 7 poi chunks in world 'world' in 1.29s
+[23:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:13:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:13:54] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[23:13:54] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[23:13:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:13:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
